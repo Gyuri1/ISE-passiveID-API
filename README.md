@@ -14,8 +14,8 @@ If You confiure pxGrid service between ISE and FMC, PassiveID service can update
 API
 ===
 `python passiveid.py -n ise.company.local -u UserAPI -i 10.0.1.5 -a admin -p C1sco123 -d company.local -v`
-
-where:
+  
+where:  
 -n ISE node's FQDN or IP address  
 -u new username  
 -i new user's IP address  
@@ -29,8 +29,8 @@ where:
 Syslog:
 ======
 `python passiveid-syslog.py -n ise.company.local -u asauser1 -i 10.1.1.1 -s SENDER.company.com`
-
-where:
+  
+where:  
 -n ISE node's FQDN or IP address  
 -u new username  
 -i new user's IP address  
