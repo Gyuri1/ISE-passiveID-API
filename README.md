@@ -2,7 +2,7 @@
 
 These scripts demonstrate how to use ISE PassiveID API and syslog providers.  
 
-If You confiure pxGrid service between ISE and FMC, PassiveID service can update the users on FMC as well.  
+If You confiure pxGrid service between ISE and FMC, PassiveID service can update the username-IP address mappings on FMC as well.  
 
 
 # How to install:
