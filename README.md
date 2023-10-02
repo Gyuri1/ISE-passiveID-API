@@ -8,7 +8,7 @@ These scripts demonstrate how to use ISE PassiveID API and syslog providers.
 # How to run:
 
 
-python passiveid-syslog.py -n ise.company.local -u asauser1 -i 10.1.1.1 -s SENDER.company.com 
+`python passiveid-syslog.py -n ise.company.local -u asauser1 -i 10.1.1.1 -s SENDER.company.com`
 
 
 NOTES:
