@@ -35,14 +35,12 @@ where:
 -d target domain 
 -v verbose log
 
-ISE logging:  
-`show logging  application passiveid-api.log tail`
-
 
 ISE Configuration:
-
 <img width="1002" alt="passiveid-api" src="https://github.com/Gyuri1/ISE-passiveID-API/assets/8695335/cb5d5b16-b05b-4f0e-a8cd-1f78ba85cbcd">
 
+ISE logging:  
+`show logging  application passiveid-api.log tail`
 
 Notes:
 - Thank You very much for the great support Viktor Bobrov!
