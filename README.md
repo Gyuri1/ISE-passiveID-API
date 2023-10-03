@@ -40,6 +40,7 @@ ISE logging:
 
 ISE Configuration:
 
+<img width="1002" alt="passiveid-api" src="https://github.com/Gyuri1/ISE-passiveID-API/assets/8695335/cb5d5b16-b05b-4f0e-a8cd-1f78ba85cbcd">
 
 
 Notes:
@@ -58,6 +59,8 @@ where:
 -s syslog sending device's FQDN   
 
 ISE Configuration:
+
+<img width="964" alt="passiveid-syslog" src="https://github.com/Gyuri1/ISE-passiveID-API/assets/8695335/6cec3ecc-5b09-415d-a8c4-fa5097fb0ee1">
 
 
 ISE logging:  
