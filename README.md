@@ -11,7 +11,7 @@ Like this way:
 
 Note:   
 
-If the script adds usernames to FMC which belong to the "Group and User Synch", those users are "Available for Policy":   
+If the script adds usernames to FMC that belong to the 'Group and User Sync,' those users will be marked as 'Available for Policy': 
 
 ![07_41_39](https://github.com/Gyuri1/ISE-passiveID-API/assets/8695335/93272b7e-f25f-42cb-96da-d98d8104d44f)
 
