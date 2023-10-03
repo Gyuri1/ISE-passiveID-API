@@ -24,7 +24,18 @@ where:
 -d target domain 
 -v verbose log
 
+Troubleshoot message on ISE:
+`show logging  application passiveid-api.log tail`
 
+
+ISE Configuration:
+
+
+
+Notes:
+- Thank You very much for the great support Viktor Bobrov!
+- API provider example was ported and modified from this repo:
+  https://github.com/vbobrov/iseutils/blob/main/passiveid-rest.py
 
 Syslog:
 ======
@@ -36,13 +47,12 @@ where:
 -i new user's IP address  
 -s syslog sending device's FQDN   
 
+ISE Configuration:
 
-NOTES:
-=====
 
+Troubleshoot message on ISE:
+`show logging application passiveid-syslog.log tail`
+
+Notes:
 - SENDER.company.com type of FQDN worked in my environment. The machine name part is capitalized.
-
 - ASA-VPN Profile was used for syslog provider.
-
-- API provider example was ported and modified from this repo:
-  https://github.com/vbobrov/iseutils/blob/main/passiveid-rest.py
