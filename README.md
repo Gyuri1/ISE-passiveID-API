@@ -4,8 +4,17 @@ These scripts demonstrate how to use ISE PassiveID API and syslog providers.
 
 If You confiure pxGrid service between ISE and FMC, PassiveID service can update the username-IP address mappings on FMC as well.  
 
+Like this way: 
+
+  script -> ISE PassiveID (API or syslog provider) -> pxGrid -> FMC (ID firewall service)  
+
+
 
 # How to install:
+
+ 
+Install the necessary python modules
+`pip install `
 
 
 # How to use:
