@@ -13,8 +13,8 @@ Like this way:
 # How to install:
 
  
-Install the necessary python modules
-`pip install `
+Install the necessary python modules:  
+`pip install requests`
 
 
 # How to use:
