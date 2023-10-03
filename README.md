@@ -25,7 +25,7 @@ where:
 -d target domain 
 -v verbose log
 
-Troubleshoot message on ISE:  
+ISE logging:  
 `show logging  application passiveid-api.log tail`
 
 
@@ -51,7 +51,7 @@ where:
 ISE Configuration:
 
 
-Troubleshoot message on ISE:  
+ISE logging:  
 `show logging application passiveid-syslog.log tail`
 
 Notes:
