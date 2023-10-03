@@ -8,11 +8,12 @@ If You confiure pxGrid service between ISE and FMC, PassiveID service can update
 # How to install:
 
 
-# How to run:
+# How to use:
 
 
 API
 ===
+
 `python passiveid.py -n ise.company.local -u UserAPI -i 10.0.1.5 -a admin -p C1sco123 -d company.local -v`
   
 where:  
@@ -24,7 +25,7 @@ where:
 -d target domain 
 -v verbose log
 
-Troubleshoot message on ISE:
+Troubleshoot message on ISE:  
 `show logging  application passiveid-api.log tail`
 
 
@@ -50,7 +51,7 @@ where:
 ISE Configuration:
 
 
-Troubleshoot message on ISE:
+Troubleshoot message on ISE:  
 `show logging application passiveid-syslog.log tail`
 
 Notes:
